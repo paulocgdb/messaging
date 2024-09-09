@@ -9,7 +9,7 @@ public class RabbitmqTestingApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RabbitmqTestingApplication.class, args);
 		
-		System.out.println("Working");
+		System.out.println("Working hard");
 	}
 
 }
