@@ -1,2 +1,2 @@
 # messaging
-projects about messaging like RabbitMQ, Kafka
+projects about messaging like Kafka
